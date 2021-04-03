@@ -12,5 +12,10 @@ The objective of this analysis is to present Pewlett Hackard, how the retirement
 ### Deliverable 2
 The massive migration of personel into retirement status, give reason for the company to react. Training the existing staff to fill the senior position is one way the company can begin to address this issue. The mentorship_eligibilty.csv file produces a glimpse or insight to some of the seniors members who eligibile for promotions and more senior role within the organisantion. Fig4.
 
+## Summary
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+    Since the "DISTINCT ON" function gives an accrute aggregate of the amount person that will be affected by the "silver tsunnami", counting the number of rows in unique_titles       will determine the amount rolles that will be needed to filled. Figure 5 shows the query which is 90,038        
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 
 
