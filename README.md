@@ -23,7 +23,8 @@ Since the "DISTINCT ON" function gives an accrute aggregate of the amount person
 
     
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Employee slated for mentorship programs are determine by the amount years current emplyees are employed to the company and the year that their were born. The mentorship_eligibilty query which returns current personel born in the year 1965 gives a total 1940 names as shown in figure 6 (Fig6) 
+Employee slated for mentorship programs are determine by the amount years current emplyees are employed to the company and the year that their were born. The mentorship_eligibilty query which returns current personel born in the year 1965 gives a total 1940 names as shown in figure 6 (Fig6) ![Fig6](https://user-images.githubusercontent.com/78861458/113519369-b1a5e780-9559-11eb-9613-40a038853c77.png)
+The amount of personel on this list is by far too small to satisfy the demand that is needed to mitigate against this "silver tsunami". Pewlett Hackard will need a wider criteria or more than one aspect to select personel to the list. However, the over 90,000 employees on the list for retirement is enough train or mentor the next generation of Pewlett Hackard employees. Figure 3 shows the bulk of the retirees holds senior position within the company, and even wih a bigger list for the mentorship program there will be no issues training and preparing staff for future endeavors. 
 
 
 
