@@ -13,7 +13,8 @@ The objective of this analysis is to present Pewlett Hackard, how the retirement
     
 
 ### Deliverable 2
-The massive migration of personel into retirement status, give reason for the company to react. Training the existing staff to fill the senior position is one way the company can begin to address this issue. The mentorship_eligibilty.csv file produces a glimpse or insight to some of the seniors members who eligibile for promotions and more senior role within the organisantion. Fig4.
+The massive migration of personel into retirement, gives the company a good reason to react extreamly urgently. Training the existing staff to fill the senior position is one way the company can begin to address this issue. The mentorship_eligibilty.csv file produces a glimpse or insight to some of the seniors members who are eligibile for promotions to filled these positions that will become vacant shortly. Query the employee table for current employee born in the year 1965 is one means to determine staff that senior in the company. Figure 4, (Fig4) the mentorship_eligibilty displays this results.![Fig4](https://user-images.githubusercontent.com/78861458/113513984-1bae9480-953a-11eb-8809-6bfba4c3efd8.png)
+
 
 ## Summary
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
