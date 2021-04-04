@@ -7,8 +7,9 @@ The objective of this analysis is to present Pewlett Hackard, how the retirement
 ### Deliverable 1
 - The first Query, employees that are up for retirement, thats is, personel born between year 1952 and 1955 shown the retirements_titles.csv file. The table produced 133,776 entries  which is almost half of the work force 300,024 employees. Innspection of table shows employee number that appear more the once, this an incorrect amount due to personel may have been promoted or change positions within the company over the years. This would have a greater concern to the company and would require urgent and a more rapid response to this issue. Figure 1 show mulitiple entry of the same "emp_no"  ![Fig1](https://user-images.githubusercontent.com/78861458/113513396-88745f80-9537-11eb-8f8a-9a61badf2a69.png)
 
-- A more accurate table was created using the "DISTINCT ON" function in PostgreSQL, this function remove duplicate or identitcal entries from a specfic column and in this case the   "emp_no" column was used the uniquie_titles.csv file (Fig2.)
-- .With each unique employee now in this table the accurate figure 90,398 personel are on the retirement list. Almost   40,000 difference is extremly significant, using the list from the first query would have misguided the company descision. 
+- A more accurate table was created using the "DISTINCT ON" function in PostgreSQL, this function remove duplicate or identitcal entries from a specfic column and in this case the   "emp_no" column was used the uniquie_titles.csv file (Fig2.)![Fig2](https://user-images.githubusercontent.com/78861458/113520084-b91bbf80-955e-11eb-85bb-ebaf19537a08.png)
+
+- With each unique employee now in this table the accurate figure 90,398 personel are on the retirement list. Almost   40,000 difference is extremly significant, using the list from the first query would have misguided the company descision. 
 - Retrieving the positions (titles) and aggregates for each position from the unique_titles.csv file, gives Pewlett Hackard a clearer indication or prediction of what postions that will be needed to filled and adjustments the company needs to under take. The figure retireing_titles.csv, Fig3, shows how the job position will affected.![Fig3](https://user-images.githubusercontent.com/78861458/113513599-7941e180-9538-11eb-816c-72bc450b106d.png)
     
 
