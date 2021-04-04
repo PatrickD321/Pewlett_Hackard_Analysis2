@@ -17,14 +17,12 @@ The massive migration of personel into retirement, gives the company a good reas
 
 
 ## Summary
+
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-    Since the "DISTINCT ON" function gives an accrute aggregate of the amount person that will be affected by the 
-    "silver tsunnami", counting the number of rows in unique_titles will determine the amount rolles that will be
-    needed to filled. Figure 5 shows the query which is 90,038
+Since the "DISTINCT ON" function gives an accrute aggregate of the amount person that will be affected by the "silver tsunnami", counting the number of rows in unique_titles will determine the amount rolles that will be needed to filled. Figure 5 shows the query which is 90,038
     
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Employee slated for mentorship programs are determine by the amount years employed to the company. The mentorship_eligibilty query
-which returns current personel born in the year 1965 gives a total 1940 names figure 5 
+Employee slated for mentorship programs are determine by the amount years current emplyees are employed to the company. The mentorship_eligibilty query which returns current personel born in the year 1965 gives a total 1940 names as shown in figure 5 (Fig5) 
 
 
 
